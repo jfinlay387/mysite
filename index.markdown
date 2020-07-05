@@ -5,4 +5,4 @@
 layout: page
 ---
 
-Hello! I am a 5th year PhD candidate in economics at Yale. My interests are in international trade and spatial economics. Here you can find my [CV](/download/CV.pdf), my [research]({% link research.markdown%}) and information about my [teaching]({% link teaching.markdown%}) experience.
+Hello! I am a 5th year PhD candidate in economics at Yale. My interests are in international trade and spatial economics. Here you can find my [CV](/mysite/download/CV.pdf), my [research]({{ site.baseurl }}{% link research.markdown%}) and information about my [teaching]({{ site.baseurl }}{% link teaching.markdown%}) experience.
