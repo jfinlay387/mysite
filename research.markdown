@@ -6,8 +6,8 @@ permalink: /research/
 
 ## Working Papers
 
-[Sorting out Housing](/mysite/download/FinlayWilliams_wpJune2020.pdf) (with Trevor Williams)
+[Sorting and the Skill Premium: The Role of Nonhomothetic Housing Demand](/mysite/download/FW_wp_Oct20.pdf) (with Trevor Williams)
 
-Housing expenditure shares decline with income. This causes spatial sorting. Unskilled workers avoid expensive cities because their lower incomes make them more sensitive to high housing costs, while skilled workers have a comparative advantage in living in expensive cities because they are less sensitive to costly housing. We estimate preferences which allow for nonhomothetic housing demand and embed them in a standard quantitative spatial model. We find that the increase in skilled workers’ wages since 1980 relative to those of unskilled workers strengthened the sorting of skilled versus unskilled workers across cities. Our model explains 14% of the increase in city level sorting observed in the US between 1980 and 2010 through the interaction of the rising skill premium with nonhomothetic housing demand.
+Since 1980 skilled and unskilled workers have increasingly sorted into different cities. In this paper we propose and quantify a novel driver of increased spatial sorting — diverging preferences over location attributes caused by diverging incomes across skill groups. The root cause of these diverging preferences is income inelastic housing demand, which we show to be a robust feature of consumption microdata. As the incomes of skilled workers rise relative to those of unskilled workers, their housing expenditure shares fall and they become more willing to cluster together in expensive, skill-intensive cities. By adding nonhomothetic preferences to an otherwise standard quantitative spatial model we show that this mechanism explains 22% of the increase in sorting since 1980.
 
 ---
